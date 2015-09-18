@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "AYL Redmine",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Theme override for redmine",
+    "description": "The description of the application"
+  }
+}
